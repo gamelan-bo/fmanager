@@ -7,10 +7,10 @@ error_reporting(E_ALL);
 if(!@date_default_timezone_set('Europe/Rome')) { date_default_timezone_set('UTC'); }
 
 // --- Impostazioni Database ---
-if (!defined('DB_HOST')) define('DB_HOST', 'srv-sql');
-if (!defined('DB_USER')) define('DB_USER', 'iz4wnp');
-if (!defined('DB_PASS')) define('DB_PASS', 'Peloisa-61W');
-if (!defined('DB_NAME')) define('DB_NAME', 'file_manager');
+if (!defined('DB_HOST')) define('DB_HOST', '');
+if (!defined('DB_USER')) define('DB_USER', '');
+if (!defined('DB_PASS')) define('DB_PASS', '');
+if (!defined('DB_NAME')) define('DB_NAME', '');
 if (!defined('DB_TABLE_PREFIX')) define('DB_TABLE_PREFIX', ''); // Sarà vuoto
 
 // --- Impostazioni Sito ---
