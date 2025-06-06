@@ -14,9 +14,9 @@ if (!defined('DB_NAME')) define('DB_NAME', '');
 if (!defined('DB_TABLE_PREFIX')) define('DB_TABLE_PREFIX', ''); // Sarà vuoto
 
 // --- Impostazioni Sito ---
-if (!defined('SITE_URL')) define('SITE_URL', 'https://fmanager.webtome.net');
+if (!defined('SITE_URL')) define('SITE_URL', '');
 if (!defined('REWRITE_BASE_FOR_PHP')) define('REWRITE_BASE_FOR_PHP', '/');
-if (!defined('SITE_NAME')) define('SITE_NAME', 'WebToMe File Manager');
+if (!defined('SITE_NAME')) define('SITE_NAME', '');
 if (!defined('PROJECT_ROOT')) define('PROJECT_ROOT', dirname(__FILE__)); // Definisce PROJECT_ROOT relativo a config.php
 if (defined('PROJECT_ROOT') && !defined('PHPMAILER_PATH')) define('PHPMAILER_PATH', PROJECT_ROOT . '/includes/PHPMailer/src/');
 if (!defined('RECAPTCHA_SITE_KEY')) define('RECAPTCHA_SITE_KEY', '');
@@ -27,8 +27,8 @@ if (!defined('LOG_PATH')) define('LOG_PATH', PROJECT_ROOT . '/LOG/');
 if (!defined('ACTIVITY_LOG')) define('ACTIVITY_LOG', LOG_PATH . 'activity.log');
 if (!defined('ERROR_LOG')) define('ERROR_LOG', LOG_PATH . 'error.log');
 if (!defined('NAS_ROOT_PATH')) define('NAS_ROOT_PATH', '/mnt/nas/');
-if (!defined('ADMIN_NOTIFICATION_EMAIL')) define('ADMIN_NOTIFICATION_EMAIL', 'iz4wnp@gmail.com');
-if (!defined('SITE_EMAIL_FROM')) define('SITE_EMAIL_FROM', 'noreply@webtome.net');
+if (!defined('ADMIN_NOTIFICATION_EMAIL')) define('ADMIN_NOTIFICATION_EMAIL', '');
+if (!defined('SITE_EMAIL_FROM')) define('SITE_EMAIL_FROM', '');
 if (!defined('DEFAULT_USER_QUOTA_BYTES')) define('DEFAULT_USER_QUOTA_BYTES', 1073741824); // 1GB
 
 // --- Funzioni di Logging Base ---
