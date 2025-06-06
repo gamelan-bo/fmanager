@@ -1,0 +1,2 @@
+[2025-06-06 07:07:50] [S: delete_file.php] [L:54] - Warning: Tentativo di redirect con caratteri non validi in delete_file.php: https://fmanager.webtome.net/admin/file-manager?p=1&filename_filter=&owner_username_filter=&show_deleted=active
+[2025-06-06 07:07:53] [S: delete_file.php] [L:54] - Warning: Tentativo di redirect con caratteri non validi in delete_file.php: https://fmanager.webtome.net/i-miei-file

@@ -1,0 +1,42 @@
+/* assets/css/style.css */
+
+html, body { margin: 0; padding: 0; width: 100%; height: 100%; }
+body { display: flex; flex-direction: column; min-height: 100vh; font-size: 0.95rem; }
+header { margin: 0; padding: 0; width: 100%; }
+main { flex: 1; padding-top: 1rem; padding-bottom: 1rem; }
+.footer { font-size: 0.85rem; padding-top: 1rem; padding-bottom: 1rem; margin-top: auto; }
+
+.error-message, .success-message { padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;}
+.error-message { color: #721c24; background-color: #f8d7da; border-color: #f5c6cb;}
+.success-message { color: #155724; background-color: #d4edda; border-color: #c3e6cb;}
+
+.site-logo-header-container { padding-top: 0; padding-bottom: 10px; padding-left: 15px; padding-right: 15px; background-color: #ffffff; border-bottom: 1px solid #e9ecef; line-height: 1; }
+.top-site-logo-img { width: auto; height: auto; display: inline-block; vertical-align: middle; }
+
+/* Fallback per Navbar personalizzata (sovrascritti da stili dinamici in <head>) */
+.navbar.custom-theme-navbar { background-color: #343a40 !important; /* Default Bootstrap dark */ }
+.navbar-dark.custom-theme-navbar .navbar-nav .nav-link,
+.navbar-dark.custom-theme-navbar .navbar-brand, 
+.navbar-dark.custom-theme-navbar .navbar-brand span.site-name-text { color: rgba(255,255,255,0.85) !important; font-weight: 500; }
+.navbar-dark.custom-theme-navbar .navbar-brand { color: #fff !important; font-weight: 600; }
+.navbar-dark.custom-theme-navbar .navbar-nav .nav-item.active .nav-link,
+.navbar-dark.custom-theme-navbar .navbar-nav .nav-link:hover,
+.navbar-dark.custom-theme-navbar .navbar-nav .nav-link:focus { color: #ffffff !important; font-weight: 600; }
+.navbar-dark.custom-theme-navbar .dropdown-menu a.dropdown-item { color: #212529 !important; /* Testo scuro per dropdown su sfondo chiaro di default del dropdown */ }
+.navbar-dark.custom-theme-navbar .dropdown-menu a.dropdown-item:hover,
+.navbar-dark.custom-theme-navbar .dropdown-menu a.dropdown-item:focus { color: #000 !important; background-color: #f0f0f0 !important; /* Sfondo hover chiaro per dropdown */ }
+
+/* Fallback per Footer personalizzato */
+.footer.custom-theme-footer { background-color: #f8f9fa !important; /* Default Bootstrap light */ color: #6c757d !important; }
+.footer.custom-theme-footer .text-muted, .footer.custom-theme-footer span { color: #6c757d !important; /* Assicura che il testo nel footer usi questo colore di fallback */ }
+
+/* Fallback per Colore Accento (sarà sovrascritto da stili dinamici) */
+a:not(.nav-link):not(.btn):not(.dropdown-item):not(.page-link):not(.navbar-brand) { color: #007bff; }
+a:not(.nav-link):not(.btn):not(.dropdown-item):not(.page-link):not(.navbar-brand):hover { color: #0056b3; }
+.btn-primary { background-color: #007bff !important; border-color: #007bff !important; }
+.btn-primary:hover { background-color: #0069d9 !important; border-color: #0062cc !important; }
+.pagination .page-item.active .page-link { background-color: #007bff; border-color: #007bff; }
+
+.table th.actions-column, .table td.actions-column { min-width: 220px; white-space: nowrap; }
+.mr-1 { margin-right: 0.25rem !important; }
+.dropdown-menu .fa-fw { text-align: center; margin-right: 0.3rem; }

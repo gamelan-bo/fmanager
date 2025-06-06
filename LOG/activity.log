@@ -1,0 +1,293 @@
+[2025-06-06 10:11:59] [UID:1] - Activity: Login: iz4wnp (ID: 1)
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 10:12:07] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 10:15:27] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 10:15:41] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 4) in folder ID: Root da user ID: 1
+[2025-06-06 10:15:59] [UID:1] - Activity: File ID 4 marcato eliminato da Utente ID 1.
+[2025-06-06 10:16:23] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 11:28:59] [UID:1] - Activity: Login: iz4wnp (ID: 1)
+[2025-06-06 11:29:15] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 11:29:25] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 3
+[2025-06-06 11:29:39] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 4
+[2025-06-06 11:30:15] [UID:1] - Activity: File caricato: arc-2.5.7.img.zip (ID: 5) in folder ID: Root da user ID: 1
+[2025-06-06 11:37:20] [UID:1] - Activity: Login: iz4wnp (ID: 1)
+[2025-06-06 11:37:37] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 11:37:47] [UID:1] - Activity: File ID 5 marcato eliminato da Utente ID 1.
+[2025-06-06 11:41:00] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 11:41:12] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 6) in folder ID: Root da user ID: 1
+[2025-06-06 11:41:18] [UID:1] - Activity: File ID 6 marcato eliminato da Utente ID 1.
+[2025-06-06 11:49:39] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1. Quota impostata a: NULL (Illimitata)
+[2025-06-06 11:53:18] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1. Quota impostata a: 41943040000
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:23] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:31] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 7) in folder ID: Root da user ID: 1
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:46] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:53:47] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:11] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:12] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:18] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 8) in folder ID: Root da user ID: 1
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:32] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:54] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:54] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:54:54] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:54:54] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:55:07] [UID:1] - Activity: Permessi cartella ID 1 revocati per utente ID 1 da admin ID 1
+[2025-06-06 11:55:07] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:55:07] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:55:07] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:55:07] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:55:27] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Immagine_2025-06-04_143945_6842baca36aaf8.04907194.png (File ID: 8)
+[2025-06-06 11:55:27] [UID:1] - Activity: Quota aggiornata user ID 1 dopo hard delete file ID 8
+[2025-06-06 11:55:27] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 8).
+[2025-06-06 11:55:27] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Immagine_2025-06-04_143945_6842ba9ba5a6c7.78498402.png (File ID: 7)
+[2025-06-06 11:55:27] [UID:1] - Activity: Quota aggiornata user ID 1 dopo hard delete file ID 7
+[2025-06-06 11:55:27] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 7).
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Immagine_2025-06-04_143945_6842b7b826db65.57008663.png (File ID: 6)
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 6).
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/arc-2_5_7_img_6842b5218d3020.77404691.zip (File ID: 5)
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: arc-2.5.7.img.zip (ID: 5).
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Immagine_2025-06-04_143945_6842a3ad247fa7.84826699.png (File ID: 4)
+[2025-06-06 11:55:34] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 4).
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:55:41] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:26] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:29] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:36] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:36] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:36] [UID:1] - Activity: Creata directory fisica: /mnt/nas/user_files/1/Progetti/ per folder ID 1 da utente ID 1
+[2025-06-06 11:56:36] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 9) in folder ID: 1 da user ID: 1
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 11:56:39] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:02] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:13] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:13] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:13] [UID:1] - Activity: File caricato: functions_admin.php.buono (ID: 10) in folder ID: 1 da user ID: 1
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:21] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:37] [UID:1] - Activity: File ID 10 marcato eliminato da Utente ID 1.
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:37] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:40] [UID:1] - Activity: File ID 9 marcato eliminato da Utente ID 1.
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:46] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:46] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:46] [UID:1] - Activity: File caricato: Immagine 2025-06-04 143945.png (ID: 11) in folder ID: 1 da user ID: 1
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:02:52] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:15] [UID:1] - Activity: File caricato: arc-2.5.7.img.zip (ID: 12) in folder ID: Root da user ID: 1
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:19] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:22] [UID:1] - Activity: File ID 11 marcato eliminato da Utente ID 1.
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:03:22] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:03:31] [UID:1] - Activity: File ID 12 marcato eliminato da Utente ID 1.
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/arc-2_5_7_img_6842bcddb431a6.69103192.zip (File ID: 12)
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: arc-2.5.7.img.zip (ID: 12).
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Progetti/Immagine_2025-06-04_143945_6842bcc6888166.20801446.png (File ID: 11)
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 11).
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Progetti/functions_admin_php_6842bca5345994.37262240.buono (File ID: 10)
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: functions_admin.php.buono (ID: 10).
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato fisicamente file: /mnt/nas/user_files/1/Progetti/Immagine_2025-06-04_143945_6842bb5467e2c3.63114205.png (File ID: 9)
+[2025-06-06 12:03:40] [UID:1] - Activity: Admin (ID: 1) eliminato definitivamente file: Immagine 2025-06-04 143945.png (ID: 9).
+[2025-06-06 12:08:21] - Activity: Admin (ID:1) ha inviato il form di admin_settings.php.
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: site_name = ...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: footer_text = <b>© 2025 <a href="https://www.webtome.net" targe...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_max_height = 50...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_max_width = 1024...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_alignment = center...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_bg = #343a40...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_text = #ffffff...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_text_hover = #fda5a5...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_footer_bg = #f8f9fa...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_footer_text_color = #000000...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_accent_color = #007bff...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: theme_global_font_family = "Montserrat", sans-serif...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: aging_enabled = 0...
+[2025-06-06 12:08:21] [UID:1] - Activity: Impostazione sito aggiornata: aging_delete_grace_period_days = 7...
+[2025-06-06 12:08:21] - Activity: [LogoDebug] Cartella di destinazione logo: /var/www/fm.webtome.net/SystemImages/
+[2025-06-06 12:08:21] - Activity: [LogoDebug] La cartella SystemImages/ è scrivibile.
+[2025-06-06 12:08:30] - Activity: Admin (ID:1) ha inviato il form di admin_settings.php.
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: site_name = ...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: footer_text = <b>© 2025 <a href="https://www.webtome.net" targe...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_max_height = 180...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_max_width = 1024...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: site_logo_alignment = center...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_bg = #343a40...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_text = #ffffff...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_navbar_text_hover = #fda5a5...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_footer_bg = #f8f9fa...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_footer_text_color = #000000...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_accent_color = #007bff...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: theme_global_font_family = "Montserrat", sans-serif...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: aging_enabled = 0...
+[2025-06-06 12:08:30] [UID:1] - Activity: Impostazione sito aggiornata: aging_delete_grace_period_days = 7...
+[2025-06-06 12:08:30] - Activity: [LogoDebug] Cartella di destinazione logo: /var/www/fm.webtome.net/SystemImages/
+[2025-06-06 12:08:30] - Activity: [LogoDebug] La cartella SystemImages/ è scrivibile.
+[2025-06-06 12:14:13] [UID:1] - Activity: Admin (ID: 1) ha aggiornato dettagli per utente ID: 1. Quota salvata nel DB: NULL (Illimitata)
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:40] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 12:21:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:00:38] [UID:1] - Activity: Login: iz4wnp (ID: 1)
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:00:50] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:07:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:13:13] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:21] [UID:1] - Activity: Admin (ID: 1) ha aggiornato i dettagli per l'utente ID: 1
+[2025-06-06 13:17:31] [UID:1] - Activity: File caricato: functions_admin.php.buono (ID: 13) in folder ID: Root da user ID: 1
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:35] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:46] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:46] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:46] [UID:1] - Activity: File caricato: upload.php (ID: 14) in folder ID: 1 da user ID: 1
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:17:48] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:03] [UID:1] - Activity: File ID 13 marcato eliminato da Utente ID 1.
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:04] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:06] [UID:1] - Activity: File ID 14 marcato eliminato da Utente ID 1.
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Inizio check per UserID: 1, FolderID Richiesto: 1, IsAdmin: Sì
+[2025-06-06 13:18:06] - Activity: [can_user_access_folder_view] Accesso consentito: Utente 1 è Admin.
