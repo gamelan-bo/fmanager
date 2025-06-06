@@ -19,8 +19,8 @@ if (!defined('REWRITE_BASE_FOR_PHP')) define('REWRITE_BASE_FOR_PHP', '/');
 if (!defined('SITE_NAME')) define('SITE_NAME', 'WebToMe File Manager');
 if (!defined('PROJECT_ROOT')) define('PROJECT_ROOT', dirname(__FILE__)); // Definisce PROJECT_ROOT relativo a config.php
 if (defined('PROJECT_ROOT') && !defined('PHPMAILER_PATH')) define('PHPMAILER_PATH', PROJECT_ROOT . '/includes/PHPMailer/src/');
-if (!defined('RECAPTCHA_SITE_KEY')) define('RECAPTCHA_SITE_KEY', '6LcWc0ErAAAAAI2tn1mEmatnUi-Gi7WKhQscSeqE');
-if (!defined('RECAPTCHA_SECRET_KEY')) define('RECAPTCHA_SECRET_KEY', '6LcWc0ErAAAAAGJeJXYkkl3cc5lM3la0qP_W7yaq');
+if (!defined('RECAPTCHA_SITE_KEY')) define('RECAPTCHA_SITE_KEY', '');
+if (!defined('RECAPTCHA_SECRET_KEY')) define('RECAPTCHA_SECRET_KEY', '');
 if (!defined('SESSION_NAME')) define('SESSION_NAME', 'MyFileShareFM_SID');
 if (!defined('SESSION_TIMEOUT')) define('SESSION_TIMEOUT', 1800);
 if (!defined('LOG_PATH')) define('LOG_PATH', PROJECT_ROOT . '/LOG/');
